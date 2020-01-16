@@ -15,14 +15,13 @@ El objetivo de este proyecto es proporcionar seguridad. La seguridad del trabaja
 ![RaspberryPI3 Modelo B](https://www.raspberrypi.org/homepage-9df4b/static/0ac033e17962a041a898d92057e60def/052d8/67d8fcc5b2796665a45f61a2e8a5bb7f10cdd3f5_raspberry-pi-3-1-1619x1080.jpg)
 
 
-
-
 -Groove Base Hat x1
 
 ![Groove Base Hat ](https://media-cdn.seeedstudio.site/media/catalog/product/cache/ab187aaa5f626ad16c8031644cd2de5b/h/t/httpsstatics3.seeedstudio.comseeedfile2018-11bazaar975950_perspective.jpg)
 
 
 -SD card min 8 GB
+
 
 ![SD card 8 ](https://m.media-amazon.com/images/I/71o2uWmUqAL._AC_UY218_ML3_.jpg)
 
