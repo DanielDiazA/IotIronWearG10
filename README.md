@@ -14,29 +14,36 @@ El objetivo de este proyecto es proporcionar seguridad. La seguridad del trabaja
 
 ![RaspberryPI3 Modelo B](https://www.raspberrypi.org/homepage-9df4b/static/0ac033e17962a041a898d92057e60def/052d8/67d8fcc5b2796665a45f61a2e8a5bb7f10cdd3f5_raspberry-pi-3-1-1619x1080.jpg)
 
+
 -Groove Base Hat x1
 
 ![Groove Base Hat ](https://media-cdn.seeedstudio.site/media/catalog/product/cache/ab187aaa5f626ad16c8031644cd2de5b/h/t/httpsstatics3.seeedstudio.comseeedfile2018-11bazaar975950_perspective.jpg)
+
 
 -SD card min 8 GB
 
 ![SD card 8 ](https://m.media-amazon.com/images/I/71o2uWmUqAL._AC_UY218_ML3_.jpg)
 
+
 -Groove Red Led x3
 
 ![Groove Red Led ](https://media-cdn.seeedstudio.site/media/catalog/product/cache/aa594c9fc955742a08f5aada927a2ed2/h/t/httpsstatics3.seeedstudio.comseeedfile2018-09bazaar939479_1040300054.jpg)
+
 
 -Grove Temperature ad Humidity sensor x1
 
 ![Grove Temperature ad Humidity sensor](https://media-cdn.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/g/r/grove-temperature-humidity-sensor-dht11-preview.png)
 
+
 -Grove Finger-clip Heart Rate Sensor x1
 
 ![Grove Finger Clip](https://github.com/SeeedDocument/Grove-Finger-clip_Heart_Rate_Sensor/raw/master/img/Grove-Finger-clip_Heart_Rate_Sensor.jpg)
 
+
 -Grove Flame sensor x1
 
 ![Grove flame sensor](https://raw.githubusercontent.com/SeeedDocument/Grove-Flame_Sensor/master/img/Flame_Sensor_01.jpg)
+
 
 -Set de cables
 
