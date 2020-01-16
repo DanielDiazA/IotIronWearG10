@@ -2,7 +2,7 @@
 ___
 Smart IronWear es un prototipo inteligente de un dispositivo con sensores y luces LED aplicado a un traje de aluminio ignífugo, 
 que recoge información sobre el entorno y sobre el usuario para proporcionar datos del entorno de trabajo y del estado del usuario 
-con el fín de aumentar la seguridad laboral en entornos de trabajo peligrosos como puede ser la industria siderúrgica. 
+con el fin de aumentar la seguridad laboral en entornos de trabajo peligrosos como puede ser la industria siderúrgica. 
 El prototipo lleva 3 LED (los cuales estarían  en el antebrazo del traje) conectadas a los sensores, y que se iluminan 
 en caso de que el usuario corra peligro, de esta forma, se mantiene informado tanto al usuario como al resto de trabajadores del estado del propio usuario y de las condiciones del entorno de trabajo (temperatura, humedad y frecuencia cardíaca).
 
