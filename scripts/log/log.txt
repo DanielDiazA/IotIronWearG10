@@ -1,925 +1,1231 @@
-Temperatura: 18
-Humedad: 55
-Frecuencia cardiaca: 81
-No se detecta fuego.
-
-16/01/20
-11:59:45
-
 
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 154ppm
+Fuego detectado.
+[17/01/20 00:05:09]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 87
-No se detecta fuego.
-
-16/01/20
-11:59:58
+Temperatura: 18º
+Humedad: 67%
+Frecuencia cardiaca: 159ppm
+Fuego detectado.
+[17/01/20 00:05:26]
 
+Temperatura: 18º
+Humedad: 66%
+Frecuencia cardiaca: 57ppm
+Fuego detectado.
+[17/01/20 00:05:39]
 
+Temperatura: 18º
+Humedad: 53%
+Frecuencia cardiaca: 76ppm
+Fuego detectado.
+[17/01/20 00:05:51]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 114
+Temperatura: 18º
+Humedad: 53%
+Frecuencia cardiaca: 70ppm
 No se detecta fuego.
-
-16/01/20
-12:00:11
-
+[17/01/20 00:11:13]
 
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 150
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 56ppm
 No se detecta fuego.
-
-16/01/20
-12:00:33
-
-
+[17/01/20 00:11:25]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 129
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 72ppm
 No se detecta fuego.
+[17/01/20 00:11:38]
 
-16/01/20
-12:00:46
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 70ppm
+Fuego detectado.
+[17/01/20 00:11:50]
 
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 91
+Temperatura: 18º
+Humedad: 53%
+Frecuencia cardiaca: 56ppm
 No se detecta fuego.
-
-16/01/20
-12:00:59
-
+[17/01/20 00:12:04]
 
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 44
+Temperatura: 18º
+Humedad: 69%
+Frecuencia cardiaca: 66ppm
 No se detecta fuego.
-
-16/01/20
-12:01:14
-
-
+[17/01/20 00:12:17]
 
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 99
+Temperatura: 18º
+Humedad: 93%
+Frecuencia cardiaca: 59ppm
 No se detecta fuego.
+[17/01/20 00:12:32]
 
-16/01/20
-12:01:30
-
-
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 109
+Temperatura: 19º
+Humedad: 77%
+Frecuencia cardiaca: 51ppm
 No se detecta fuego.
-
-16/01/20
-12:01:42
+[17/01/20 00:12:46]
 
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 56
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 76ppm
 No se detecta fuego.
-
-16/01/20
-12:01:56
-
+[17/01/20 00:13:00]
 
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 148
+Temperatura: 19º
+Humedad: 77%
+Frecuencia cardiaca: 77ppm
 No se detecta fuego.
-
-16/01/20
-12:02:09
-
-
+[17/01/20 00:13:12]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 52
+Temperatura: 19º
+Humedad: 58%
+Frecuencia cardiaca: 57ppm
 No se detecta fuego.
+[17/01/20 00:13:25]
 
-16/01/20
-12:02:22
+Temperatura: 19º
+Humedad: 55%
+Frecuencia cardiaca: 65ppm
+Fuego detectado.
+[17/01/20 00:13:37]
 
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 68
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 63ppm
 No se detecta fuego.
-
-16/01/20
-12:02:37
-
+[17/01/20 00:13:50]
 
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 150ppm
+Fuego detectado.
+[17/01/20 00:14:04]
 
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 57
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 74ppm
 No se detecta fuego.
+[17/01/20 00:14:16]
 
-16/01/20
-12:02:47
-
-
-
-Temperatura: 18
-Humedad: 56
-Frecuencia cardiaca: 46
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 56ppm
 No se detecta fuego.
-
-16/01/20
-12:03:00
+[17/01/20 00:14:30]
 
-
-
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 134
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 77ppm
 No se detecta fuego.
-
-16/01/20
-12:03:17
-
+[17/01/20 00:14:43]
 
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 119
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 85ppm
 No se detecta fuego.
-
-16/01/20
-12:03:37
-
-
+[17/01/20 00:14:55]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 123
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 160ppm
 No se detecta fuego.
+[17/01/20 00:15:07]
 
-16/01/20
-12:06:56
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 127
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 62ppm
 No se detecta fuego.
-
-16/01/20
-12:07:10
+[17/01/20 00:15:20]
 
-
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 95
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 59ppm
 No se detecta fuego.
-
-16/01/20
-12:07:26
-
+[17/01/20 00:16:08]
 
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 69ppm
+Fuego detectado.
+[17/01/20 00:16:20]
 
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 117
+Temperatura: 18º
+Humedad: 64%
+Frecuencia cardiaca: 80ppm
 No se detecta fuego.
+[17/01/20 00:16:35]
 
-16/01/20
-12:07:39
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 61
+Temperatura: 18º
+Humedad: 64%
+Frecuencia cardiaca: 69ppm
 No se detecta fuego.
-
-16/01/20
-12:07:51
+[17/01/20 00:16:56]
 
+Temperatura: 18º
+Humedad: 50%
+Frecuencia cardiaca: 50ppm
+Fuego detectado.
+[17/01/20 00:17:08]
 
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 44
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 67ppm
 No se detecta fuego.
-
-16/01/20
-12:08:04
-
-
+[17/01/20 00:17:21]
 
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 127
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 64ppm
 No se detecta fuego.
+[17/01/20 00:17:33]
 
-16/01/20
-12:08:21
-
-
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 89
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 81ppm
 No se detecta fuego.
-
-16/01/20
-12:11:10
+[17/01/20 00:17:46]
 
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 51ppm
+Fuego detectado.
+[17/01/20 00:17:58]
 
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 149
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 82ppm
 No se detecta fuego.
-
-16/01/20
-12:16:42
-
-
+[17/01/20 00:18:10]
 
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 150
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 74ppm
 No se detecta fuego.
+[17/01/20 00:18:23]
 
-16/01/20
-12:20:23
-
-
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 99
+Temperatura: 19º
+Humedad: 50%
+Frecuencia cardiaca: 63ppm
 No se detecta fuego.
-
-16/01/20
-12:26:32
+[17/01/20 00:18:32]
 
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 130
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 83ppm
 No se detecta fuego.
-
-16/01/20
-12:26:46
-
+[17/01/20 00:18:46]
 
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 60ppm
+Fuego detectado.
+[17/01/20 00:18:58]
 
-Temperatura: 18
-Humedad: 55
-Frecuencia cardiaca: 68
+Temperatura: 18º
+Humedad: 50%
+Frecuencia cardiaca: 56ppm
 No se detecta fuego.
+[17/01/20 00:19:10]
 
-16/01/20
-12:26:59
-
-
-
-Temperatura: 18
-Humedad: 55
-Frecuencia cardiaca: 110
+Temperatura: 18º
+Humedad: 50%
+Frecuencia cardiaca: 73ppm
 No se detecta fuego.
-
-16/01/20
-12:47:31
+[17/01/20 00:19:24]
 
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 126
+Temperatura: 18º
+Humedad: 64%
+Frecuencia cardiaca: 60ppm
 No se detecta fuego.
-
-16/01/20
-12:49:01
-
+[17/01/20 00:19:34]
 
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 81ppm
+Fuego detectado.
+[17/01/20 00:19:46]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 122
+Temperatura: 18º
+Humedad: 50%
+Frecuencia cardiaca: 63ppm
 No se detecta fuego.
+[17/01/20 00:19:58]
 
-16/01/20
-12:49:19
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 45
+Temperatura: 18º
+Humedad: 50%
+Frecuencia cardiaca: 74ppm
 No se detecta fuego.
-
-16/01/20
-12:49:32
+[17/01/20 00:24:34]
 
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 111
+Temperatura: 18º
+Humedad: 51%
+Frecuencia cardiaca: 79ppm
 No se detecta fuego.
-
-16/01/20
-12:49:49
-
+[17/01/20 00:34:24]
 
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 52ppm
+Fuego detectado.
+[17/01/20 00:34:37]
 
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 95
-Fuego detectado Peligro.
-16/01/20
-12:50:18
-
-
-
-Temperatura: 18
-Humedad: 69
-Frecuencia cardiaca: 87
+Temperatura: 18º
+Humedad: 55%
+Frecuencia cardiaca: 83ppm
 No se detecta fuego.
-
-16/01/20
-12:50:33
-
-
-
-Temperatura: 18
-Humedad: 69
-Frecuencia cardiaca: 108
-Fuego detectado Peligro.
-16/01/20
-12:51:35
-
+[17/01/20 00:34:54]
 
+Temperatura: 18º
+Humedad: 53%
+Frecuencia cardiaca: 76ppm
+Fuego detectado.
+[17/01/20 00:35:06]
 
-Temperatura: 18
-Humedad: 58
-Frecuencia cardiaca: 86
+Temperatura: 18º
+Humedad: 66%
+Frecuencia cardiaca: 84ppm
 No se detecta fuego.
+[17/01/20 00:35:22]
 
-16/01/20
-12:53:13
+Temperatura: 18º
+Humedad: 66%
+Frecuencia cardiaca: 74ppm
+Fuego detectado.
+[17/01/20 00:35:35]
 
-
-
-Temperatura: 18
-Humedad: 72
-Frecuencia cardiaca: 123
+Temperatura: 18º
+Humedad: 53%
+Frecuencia cardiaca: 156ppm
 No se detecta fuego.
-
-16/01/20
-12:53:27
-
+[17/01/20 00:36:06]
 
-
-Temperatura: 18
-Humedad: 57
-Frecuencia cardiaca: 106
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 61ppm
 No se detecta fuego.
-
-16/01/20
-12:53:40
-
-
+[17/01/20 00:38:17]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 89
+Temperatura: 18º
+Humedad: 52%
+Frecuencia cardiaca: 65ppm
 No se detecta fuego.
+[17/01/20 00:38:30]
 
-16/01/20
-13:00:17
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 79
+Temperatura: 19º
+Humedad: 91%
+Frecuencia cardiaca: 83ppm
 No se detecta fuego.
-
-16/01/20
-13:11:51
-
-
-
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 74
-Fuego detectado Peligro.
-16/01/20
-13:12:07
-
+[17/01/20 00:38:43]
 
-
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 88
+Temperatura: 19º
+Humedad: 80%
+Frecuencia cardiaca: 62ppm
 No se detecta fuego.
-
-16/01/20
-13:12:19
-
-
+[17/01/20 00:38:57]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 95
-Fuego detectado Peligro.
-16/01/20
-13:12:32
+Temperatura: 19º
+Humedad: 91%
+Frecuencia cardiaca: 53ppm
+Fuego detectado.
+[17/01/20 00:39:09]
 
-
-
-Temperatura: 0.0
-Humedad: 0.0
-Frecuencia cardiaca: 45
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 62ppm
 No se detecta fuego.
-
-16/01/20
-13:12:47
-
+[17/01/20 00:39:22]
 
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 59
+Temperatura: 19º
+Humedad: 59%
+Frecuencia cardiaca: 85ppm
 No se detecta fuego.
-
-16/01/20
-13:14:35
-
+[17/01/20 00:39:34]
 
-
-Temperatura: 18
-Humedad: 67
-Frecuencia cardiaca: 128
+Temperatura: 19º
+Humedad: 55%
+Frecuencia cardiaca: 52ppm
 No se detecta fuego.
-
-16/01/20
-13:15:49
-
-
+[17/01/20 00:39:47]
 
-Temperatura: 18
-Humedad: 53
-Frecuencia cardiaca: 124
-Fuego detectado Peligro.
-16/01/20
-13:16:02
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 131
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 58ppm
 No se detecta fuego.
-
-16/01/20
-13:16:17
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 128
-Fuego detectado Peligro.
-16/01/20
-13:16:30
-
+[17/01/20 00:39:59]
 
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 62
-Fuego detectado Peligro.
-16/01/20
-13:16:45
-
-
-
-Temperatura: 18
-Humedad: 67
-Frecuencia cardiaca: 91
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 51ppm
 No se detecta fuego.
+[17/01/20 00:40:11]
 
-16/01/20
-13:16:58
-
-
-
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 135
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 77ppm
 No se detecta fuego.
-
-16/01/20
-13:17:10
+[17/01/20 00:40:24]
 
-
-
-Temperatura: 18
-Humedad: 67
-Frecuencia cardiaca: 149
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 60ppm
 No se detecta fuego.
+[17/01/20 00:40:37]
 
-16/01/20
-13:18:17
-
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 79ppm
+No se detecta fuego.
+[17/01/20 00:40:50]
 
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 159ppm
+No se detecta fuego.
+[17/01/20 00:41:02]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 150
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 59ppm
 No se detecta fuego.
+[17/01/20 00:41:15]
 
-16/01/20
-13:18:32
+Temperatura: 18º
+Humedad: 67%
+Frecuencia cardiaca: 78ppm
+Fuego detectado.
+[17/01/20 00:41:28]
 
+Temperatura: 19º
+Humedad: 82%
+Frecuencia cardiaca: 85ppm
+Fuego detectado.
+[17/01/20 00:41:41]
 
+Temperatura: 19º
+Humedad: 82%
+Frecuencia cardiaca: 59ppm
+No se detecta fuego.
+[17/01/20 00:41:57]
 
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 150
-Fuego detectado Peligro.
-16/01/20
-13:18:44
+Temperatura: 19º
+Humedad: 48%
+Frecuencia cardiaca: 59ppm
+No se detecta fuego.
+[17/01/20 01:18:18]
 
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 156ppm
+No se detecta fuego.
+[17/01/20 01:18:33]
 
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 154ppm
+No se detecta fuego.
+[17/01/20 01:18:48]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 150
-Fuego detectado Peligro.
-16/01/20
-13:18:59
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 159ppm
+No se detecta fuego.
+[17/01/20 01:19:01]
 
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 151ppm
+No se detecta fuego.
+[17/01/20 01:31:53]
 
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 75ppm
+No se detecta fuego.
+[17/01/20 01:32:06]
 
-Temperatura: 18
-Humedad: 68
-Frecuencia cardiaca: 150
-Fuego detectado Peligro.
-16/01/20
-13:20:16
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 83ppm
+No se detecta fuego.
+[17/01/20 01:32:22]
 
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 158ppm
+No se detecta fuego.
+[17/01/20 01:32:35]
 
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 77ppm
+No se detecta fuego.
+[17/01/20 01:32:49]
 
-Temperatura: 18
-Humedad: 53
-Frecuencia cardiaca: 150
-Fuego detectado Peligro.
-16/01/20
-13:20:29
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 55ppm
+No se detecta fuego.
+[17/01/20 01:33:08]
 
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 01:33:23]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 70ppm
+No se detecta fuego.
+[17/01/20 01:33:36]
 
-Temperatura: 18
-Humedad: 54
-Frecuencia cardiaca: 150
-Fuego detectado Peligro.
-16/01/20
-13:20:44
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 53ppm
+No se detecta fuego.
+[17/01/20 01:34:03]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 81ppm
+No se detecta fuego.
+[17/01/20 01:34:25]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 158ppm
+No se detecta fuego.
+[17/01/20 01:34:38]
 
-Temperatura: 18
-Humedad: 67
-Frecuencia cardiaca: 149
-Fuego detectado Peligro.
-16/01/20
-13:20:57
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 50ppm
+No se detecta fuego.
+[17/01/20 01:34:51]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 157ppm
+No se detecta fuego.
+[17/01/20 01:35:07]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 63ppm
+No se detecta fuego.
+[17/01/20 01:35:23]
 
-Temperatura: 18
-Humedad: 70
-Frecuencia cardiaca: 150
-Fuego detectado Peligro.
-16/01/20
-13:21:10
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 74ppm
+No se detecta fuego.
+[17/01/20 01:35:36]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 01:35:49]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 01:36:02]
 
-Temperatura: 20
-Humedad: 92
-Frecuencia cardiaca: 150
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 73ppm
 No se detecta fuego.
+[17/01/20 01:36:16]
 
-16/01/20
-13:21:51
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 160ppm
+No se detecta fuego.
+[17/01/20 01:36:31]
 
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 57ppm
+No se detecta fuego.
+[17/01/20 01:36:44]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 69ppm
+Fuego detectado.
+[17/01/20 01:36:57]
 
-Temperatura: 22
-Humedad: 47
-Frecuencia cardiaca: 68
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 69ppm
 No se detecta fuego.
+[17/01/20 01:37:11]
 
-16/01/20
-14:11:23
+Temperatura: 21º
+Humedad: 94%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 01:37:31]
 
+Temperatura: 24º
+Humedad: 95%
+Frecuencia cardiaca: 52ppm
+Fuego detectado.
+[17/01/20 01:37:50]
 
+Temperatura: 24º
+Humedad: 95%
+Frecuencia cardiaca: 70ppm
+Fuego detectado.
+[17/01/20 01:38:03]
 
-Temperatura: 22
-Humedad: 59
-Frecuencia cardiaca: 67
+Temperatura: 25º
+Humedad: 94%
+Frecuencia cardiaca: 54ppm
 No se detecta fuego.
+[17/01/20 01:38:17]
 
-16/01/20
-14:15:30
+Temperatura: 25º
+Humedad: 66%
+Frecuencia cardiaca: 65ppm
+Fuego detectado.
+[17/01/20 01:38:30]
 
+Temperatura: 25º
+Humedad: 52%
+Frecuencia cardiaca: 74ppm
+Fuego detectado.
+[17/01/20 01:38:44]
 
-
-Temperatura: 22
-Humedad: 47
-Frecuencia cardiaca: 139
+Temperatura: 24º
+Humedad: 45%
+Frecuencia cardiaca: 51ppm
 No se detecta fuego.
-
-16/01/20
-14:20:45
+[17/01/20 01:38:57]
 
+Temperatura: 24º
+Humedad: 51%
+Frecuencia cardiaca: 57ppm
+No se detecta fuego.
+[17/01/20 01:39:13]
 
+Temperatura: 24º
+Humedad: 51%
+Frecuencia cardiaca: 63ppm
+No se detecta fuego.
+[17/01/20 01:39:26]
 
-Temperatura: 22
-Humedad: 59
-Frecuencia cardiaca: 141
+Temperatura: 23º
+Humedad: 42%
+Frecuencia cardiaca: 64ppm
 No se detecta fuego.
+[17/01/20 01:39:40]
 
-16/01/20
-14:25:37
+Temperatura: 22º
+Humedad: 54%
+Frecuencia cardiaca: 73ppm
+No se detecta fuego.
+[17/01/20 01:40:06]
 
+Temperatura: 22º
+Humedad: 55%
+Frecuencia cardiaca: 158ppm
+No se detecta fuego.
+[17/01/20 01:40:24]
 
+Temperatura: 22º
+Humedad: 55%
+Frecuencia cardiaca: 62ppm
+Fuego detectado.
+[17/01/20 01:40:43]
 
-Temperatura: 22
-Humedad: 47
-Frecuencia cardiaca: 115
+Temperatura: 22º
+Humedad: 76%
+Frecuencia cardiaca: 70ppm
 No se detecta fuego.
+[17/01/20 01:40:58]
 
-16/01/20
-14:27:00
-
+Temperatura: 24º
+Humedad: 95%
+Frecuencia cardiaca: 81ppm
+No se detecta fuego.
+[17/01/20 01:41:19]
 
+Temperatura: 26º
+Humedad: 95%
+Frecuencia cardiaca: 80ppm
+Fuego detectado.
+[17/01/20 01:41:41]
 
-Temperatura: 22
-Humedad: 47
-Frecuencia cardiaca: 140
+Temperatura: 26º
+Humedad: 76%
+Frecuencia cardiaca: 64ppm
 No se detecta fuego.
+[17/01/20 01:42:17]
 
-16/01/20
-14:28:46
+Temperatura: 26º
+Humedad: 95%
+Frecuencia cardiaca: 84ppm
+Fuego detectado.
+[17/01/20 01:42:48]
 
-
+Temperatura: 26º
+Humedad: 95%
+Frecuencia cardiaca: 157ppm
+No se detecta fuego.
+[17/01/20 01:43:01]
 
-Temperatura: 22
-Humedad: 48
-Frecuencia cardiaca: 96
+Temperatura: 25º
+Humedad: 46%
+Frecuencia cardiaca: 67ppm
 No se detecta fuego.
+[17/01/20 01:43:25]
 
-16/01/20
-14:36:49
+Temperatura: 25º
+Humedad: 54%
+Frecuencia cardiaca: 71ppm
+No se detecta fuego.
+[17/01/20 01:43:38]
 
+Temperatura: 24º
+Humedad: 43%
+Frecuencia cardiaca: 85ppm
+No se detecta fuego.
+[17/01/20 01:43:52]
 
+Temperatura: 24º
+Humedad: 43%
+Frecuencia cardiaca: 85ppm
+No se detecta fuego.
+[17/01/20 01:44:06]
 
-Temperatura: 22
-Humedad: 60
-Frecuencia cardiaca: 62
+Temperatura: 23º
+Humedad: 54%
+Frecuencia cardiaca: 78ppm
 No se detecta fuego.
+[17/01/20 01:44:22]
 
-16/01/20
-14:37:37
+Temperatura: 22º
+Humedad: 44%
+Frecuencia cardiaca: 65ppm
+No se detecta fuego.
+[17/01/20 01:44:39]
 
+Temperatura: 22º
+Humedad: 56%
+Frecuencia cardiaca: 61ppm
+No se detecta fuego.
+[17/01/20 01:44:55]
 
+Temperatura: 22º
+Humedad: 57%
+Frecuencia cardiaca: 69ppm
+No se detecta fuego.
+[17/01/20 01:45:11]
 
-Temperatura: 22
-Humedad: 59
-Frecuencia cardiaca: 125
+Temperatura: 22º
+Humedad: 57%
+Frecuencia cardiaca: 151ppm
 No se detecta fuego.
+[17/01/20 01:45:26]
 
-16/01/20
-14:37:54
+Temperatura: 21º
+Humedad: 45%
+Frecuencia cardiaca: 152ppm
+No se detecta fuego.
+[17/01/20 01:45:40]
 
+Temperatura: 21º
+Humedad: 46%
+Frecuencia cardiaca: 151ppm
+No se detecta fuego.
+[17/01/20 01:45:53]
 
+Temperatura: 21º
+Humedad: 46%
+Frecuencia cardiaca: 63ppm
+No se detecta fuego.
+[17/01/20 01:46:07]
 
-Temperatura: 22
-Humedad: 60
-Frecuencia cardiaca: 107
+Temperatura: 21º
+Humedad: 47%
+Frecuencia cardiaca: 50ppm
 No se detecta fuego.
+[17/01/20 01:46:20]
 
-16/01/20
-14:47:28
+Temperatura: 21º
+Humedad: 48%
+Frecuencia cardiaca: 65ppm
+No se detecta fuego.
+[17/01/20 01:46:33]
 
+Temperatura: 20º
+Humedad: 60%
+Frecuencia cardiaca: 82ppm
+No se detecta fuego.
+[17/01/20 01:46:49]
 
+Temperatura: 20º
+Humedad: 60%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 01:47:06]
 
-Temperatura: 22
-Humedad: 58
-Frecuencia cardiaca: 49
+Temperatura: 20º
+Humedad: 61%
+Frecuencia cardiaca: 76ppm
 No se detecta fuego.
+[17/01/20 01:47:26]
 
-16/01/20
-14:53:30
+Temperatura: 20º
+Humedad: 61%
+Frecuencia cardiaca: 52ppm
+No se detecta fuego.
+[17/01/20 01:47:39]
 
+Temperatura: 20º
+Humedad: 48%
+Frecuencia cardiaca: 54ppm
+No se detecta fuego.
+[17/01/20 01:47:52]
 
+Temperatura: 20º
+Humedad: 49%
+Frecuencia cardiaca: 152ppm
+No se detecta fuego.
+[17/01/20 01:48:06]
 
-Temperatura: 22
-Humedad: 46
-Frecuencia cardiaca: 129
+Temperatura: 20º
+Humedad: 49%
+Frecuencia cardiaca: 79ppm
 No se detecta fuego.
+[17/01/20 01:48:19]
 
-16/01/20
-14:53:57
+Temperatura: 20º
+Humedad: 49%
+Frecuencia cardiaca: 50ppm
+No se detecta fuego.
+[17/01/20 01:48:33]
 
+Temperatura: 20º
+Humedad: 50%
+Frecuencia cardiaca: 155ppm
+No se detecta fuego.
+[17/01/20 01:48:49]
 
+Temperatura: 20º
+Humedad: 63%
+Frecuencia cardiaca: 58ppm
+No se detecta fuego.
+[17/01/20 01:49:06]
 
-Temperatura: 22
-Humedad: 46
-Frecuencia cardiaca: 89
+Temperatura: 20º
+Humedad: 63%
+Frecuencia cardiaca: 160ppm
 No se detecta fuego.
+[17/01/20 01:49:21]
 
-16/01/20
-14:54:14
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 83ppm
+No se detecta fuego.
+[17/01/20 01:49:40]
 
+Temperatura: 19º
+Humedad: 63%
+Frecuencia cardiaca: 84ppm
+No se detecta fuego.
+[17/01/20 01:50:15]
 
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 55ppm
+No se detecta fuego.
+[17/01/20 01:50:34]
 
-Temperatura: 22
-Humedad: 46
-Frecuencia cardiaca: 110
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 154ppm
 No se detecta fuego.
+[17/01/20 01:50:50]
 
-16/01/20
-14:54:49
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 160ppm
+No se detecta fuego.
+[17/01/20 01:51:07]
 
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 63ppm
+No se detecta fuego.
+[17/01/20 01:51:26]
 
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 71ppm
+No se detecta fuego.
+[17/01/20 01:51:40]
 
-Temperatura: 22
-Humedad: 46
-Frecuencia cardiaca: 150
+Temperatura: 19º
+Humedad: 51%
+Frecuencia cardiaca: 160ppm
 No se detecta fuego.
+[17/01/20 01:52:01]
 
-16/01/20
-14:55:20
+Temperatura: 19º
+Humedad: 64%
+Frecuencia cardiaca: 85ppm
+No se detecta fuego.
+[17/01/20 01:52:15]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 53ppm
+No se detecta fuego.
+[17/01/20 01:52:31]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 53ppm
+No se detecta fuego.
+[17/01/20 01:52:45]
 
-Temperatura: 22
-Humedad: 57
-Frecuencia cardiaca: 60
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 78ppm
 No se detecta fuego.
+[17/01/20 01:52:59]
 
-16/01/20
-14:55:46
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 62ppm
+No se detecta fuego.
+[17/01/20 01:53:14]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 75ppm
+No se detecta fuego.
+[17/01/20 01:53:28]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 77ppm
+No se detecta fuego.
+[17/01/20 01:53:46]
 
-Temperatura: 22
-Humedad: 57
-Frecuencia cardiaca: 122
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 67ppm
 No se detecta fuego.
+[17/01/20 01:53:59]
 
-16/01/20
-14:56:03
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 153ppm
+No se detecta fuego.
+[17/01/20 01:54:17]
 
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 81ppm
+No se detecta fuego.
+[17/01/20 01:54:30]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 66ppm
+No se detecta fuego.
+[17/01/20 01:54:44]
 
-Temperatura: 22
-Humedad: 57
-Frecuencia cardiaca: 133
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 158ppm
 No se detecta fuego.
+[17/01/20 01:54:57]
 
-16/01/20
-14:56:18
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 58ppm
+No se detecta fuego.
+[17/01/20 01:55:10]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 01:55:23]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 156ppm
+No se detecta fuego.
+[17/01/20 01:55:38]
 
-Temperatura: 22
-Humedad: 46
-Frecuencia cardiaca: 47
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 59ppm
 No se detecta fuego.
+[17/01/20 01:55:55]
 
-16/01/20
-14:56:33
+Temperatura: 19º
+Humedad: 65%
+Frecuencia cardiaca: 157ppm
+No se detecta fuego.
+[17/01/20 01:56:09]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 156ppm
+No se detecta fuego.
+[17/01/20 01:56:22]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 159ppm
+No se detecta fuego.
+[17/01/20 01:56:37]
 
-Temperatura: 22
-Humedad: 57
-Frecuencia cardiaca: 93
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 84ppm
 No se detecta fuego.
+[17/01/20 01:56:50]
 
-16/01/20
-14:57:34
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 70ppm
+No se detecta fuego.
+[17/01/20 01:57:04]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 63ppm
+No se detecta fuego.
+[17/01/20 01:57:19]
 
+Temperatura: 19º
+Humedad: 52%
+Frecuencia cardiaca: 81ppm
+No se detecta fuego.
+[17/01/20 01:57:32]
 
-Temperatura: 22
-Humedad: 46
-Frecuencia cardiaca: 155
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 57ppm
 No se detecta fuego.
+[17/01/20 01:57:46]
 
-16/01/20
-15:23:50
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 65ppm
+No se detecta fuego.
+[17/01/20 01:58:01]
 
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 79ppm
+No se detecta fuego.
+[17/01/20 01:58:16]
 
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 72ppm
+No se detecta fuego.
+[17/01/20 01:58:34]
 
-Temperatura: 22
-Humedad: 44
-Frecuencia cardiaca: 61
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 153ppm
 No se detecta fuego.
+[17/01/20 01:58:47]
 
-16/01/20
-15:24:03
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 153ppm
+No se detecta fuego.
+[17/01/20 01:59:02]
 
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 67ppm
+No se detecta fuego.
+[17/01/20 01:59:16]
 
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 55ppm
+No se detecta fuego.
+[17/01/20 01:59:30]
 
-Temperatura: 22
-Humedad: 44
-Frecuencia cardiaca: 69
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 68ppm
 No se detecta fuego.
+[17/01/20 01:59:46]
 
-16/01/20
-15:24:19
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 67ppm
+No se detecta fuego.
+[17/01/20 02:00:02]
 
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 60ppm
+No se detecta fuego.
+[17/01/20 02:00:24]
 
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 67ppm
+No se detecta fuego.
+[17/01/20 02:00:40]
 
-Temperatura: 22
-Humedad: 44
-Frecuencia cardiaca: 154
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 52ppm
 No se detecta fuego.
+[17/01/20 02:00:55]
 
-16/01/20
-15:26:41
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 56ppm
+No se detecta fuego.
+[17/01/20 02:01:08]
 
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 75ppm
+No se detecta fuego.
+[17/01/20 02:01:22]
 
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 159ppm
+No se detecta fuego.
+[17/01/20 02:01:37]
 
-Temperatura: 22
-Humedad: 44
-Frecuencia cardiaca: 60
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 52ppm
 No se detecta fuego.
+[17/01/20 02:01:52]
 
-16/01/20
-15:30:41
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 57ppm
+No se detecta fuego.
+[17/01/20 02:02:05]
 
+Temperatura: 19º
+Humedad: 53%
+Frecuencia cardiaca: 69ppm
+No se detecta fuego.
+[17/01/20 02:02:21]
 
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 63ppm
+No se detecta fuego.
+[17/01/20 02:02:34]
 
-Temperatura: 22
-Humedad: 43
-Frecuencia cardiaca: 62
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 71ppm
 No se detecta fuego.
+[17/01/20 02:02:51]
 
-16/01/20
-15:30:53
+Temperatura: 19º
+Humedad: 66%
+Frecuencia cardiaca: 76ppm
+No se detecta fuego.
+[17/01/20 02:03:11]
 
+Temperatura: 19º
+Humedad: 57%
+Frecuencia cardiaca: 71ppm
+No se detecta fuego.
+[17/01/20 02:03:26]
 
+Temperatura: 22º
+Humedad: 95%
+Frecuencia cardiaca: 75ppm
+Fuego detectado.
+[17/01/20 02:03:42]
 
-Temperatura: 22
-Humedad: 60
-Frecuencia cardiaca: 68
-Fuego detectado Peligro.
-16/01/20
-15:31:07
+Temperatura: 25º
+Humedad: 95%
+Frecuencia cardiaca: 83ppm
+Fuego detectado.
+[17/01/20 02:03:57]
 
+Temperatura: 27º
+Humedad: 95%
+Frecuencia cardiaca: 151ppm
+Fuego detectado.
+[17/01/20 02:04:18]
 
+Temperatura: 28º
+Humedad: 95%
+Frecuencia cardiaca: 85ppm
+Fuego detectado.
+[17/01/20 02:04:35]
 
-Temperatura: 22
-Humedad: 81
-Frecuencia cardiaca: 85
+Temperatura: 21º
+Humedad: 58%
+Frecuencia cardiaca: 75ppm
 No se detecta fuego.
+[17/01/20 10:11:28]
 
-16/01/20
-15:31:23
+Temperatura: 22º
+Humedad: 49%
+Frecuencia cardiaca: 71ppm
+No se detecta fuego.
+[17/01/20 10:11:42]
 
+Temperatura: 22º
+Humedad: 49%
+Frecuencia cardiaca: 48ppm
+No se detecta fuego.
+[17/01/20 10:11:55]
 
+Temperatura: 22º
+Humedad: 76%
+Frecuencia cardiaca: 80ppm
+No se detecta fuego.
+[17/01/20 10:12:08]
 
-Temperatura: 22
-Humedad: 88
-Frecuencia cardiaca: 63
+Temperatura: 23º
+Humedad: 48%
+Frecuencia cardiaca: 64ppm
 No se detecta fuego.
+[17/01/20 10:36:20]
 
-16/01/20
-15:31:37
+Temperatura: 23º
+Humedad: 58%
+Frecuencia cardiaca: 62ppm
+Fuego detectado.
+[17/01/20 10:36:38]
 
+Temperatura: 23º
+Humedad: 82%
+Frecuencia cardiaca: 157ppm
+No se detecta fuego.
+[17/01/20 10:36:52]
 
+Temperatura: 23º
+Humedad: 94%
+Frecuencia cardiaca: 83ppm
+No se detecta fuego.
+[17/01/20 10:37:06]
 
