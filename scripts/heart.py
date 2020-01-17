@@ -16,11 +16,8 @@ class grove_fingerclip_heart_sensor:
 
 	def pulse_read(self):
 		
-		#print(bus.read_byte(0x50))
+		print(bus.read_byte(0x50))
 		#print(bus.read_i2c_block_data(self.address, 1,1))
-		#print(bus.read_i2c_block_data(self.address, 1,1))
-		#block = bus.read_i2c_block_data(self.address,4)
-		print("x")
 
 if __name__ == "__main__":		
 	#pulse= grove_fingerclip_heart_sensor()
@@ -32,7 +29,7 @@ if __name__ == "__main__":
 			if x >=85:
 				print(random.randint(150,160))
 			else:
-				print(random.randint(50,85))
+				print(random.randint(40,85))
 			i=i+1
 		except IOError:
 			print("Error")

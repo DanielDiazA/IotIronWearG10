@@ -68,7 +68,7 @@ def main():
     led = GroveLed(pin)
     
     led.on()
-    time.sleep(13)
+    time.sleep(12.15)
     led.off()
 
 if __name__ == '__main__':
