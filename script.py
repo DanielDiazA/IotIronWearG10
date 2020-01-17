@@ -86,9 +86,9 @@ def main():
 			if humedad > 75 or temperatura > 33:
 				os.system("python3 scripts/led.py 5 > /dev/null 2>&1 &")
 				if humedad > 75:
-					print(bcolors.WARNING+"WARNING: Humedad superior a lo valores seguros."+bcolors.ENDC)
+					print(bcolors.WARNING+"WARNING: Humedad superior a los valores seguros."+bcolors.ENDC)
 				if temperatura > 33:
-					print(bcolors.WARNING+"WARNING: Temperatura superior a lo valores seguros."+bcolors.ENDC)
+					print(bcolors.WARNING+"WARNING: Temperatura superior a los valores seguros."+bcolors.ENDC)
 			
 			
 			t=str(temperatura)
