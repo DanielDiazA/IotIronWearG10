@@ -36,93 +36,99 @@ def main():
 	print(bcolors.HEADER+"----------Iniciando Smart IronWear----------")
 	print("--------------------------------------------"+bcolors.ENDC)
 	while not fin:
-		log = ""
-		
-		print("\n")
-		print("Iniciando lectura de sensores...")
-		
-		tempHumi = []
-		tempHumi = calcTemp()
-		temperatura = tempHumi[0]
-		humedad = tempHumi[1]
-		while temperatura == 0.0 or humedad == 0.0:
-			print(bcolors.FAIL+"Fallo en el sensor, recalculando..."+bcolors.ENDC)
+		try:
+			log = ""
+			
+			print("\n")
+			print("Iniciando lectura de sensores...")
+			
+			tempHumi = []
 			tempHumi = calcTemp()
 			temperatura = tempHumi[0]
 			humedad = tempHumi[1]
-		
-		print(bcolors.OKGREEN+"-Lectura completada"+bcolors.ENDC)
+			while temperatura == 0.0 or humedad == 0.0:
+				print(bcolors.FAIL+"Fallo en el sensor, recalculando..."+bcolors.ENDC)
+				tempHumi = calcTemp()
+				temperatura = tempHumi[0]
+				humedad = tempHumi[1]
 			
-		print(bcolors.OKBLUE+"Sensor de llama"+bcolors.ENDC)
-		os.system ("python3 scripts/flame.py")
-		print(bcolors.OKGREEN+"-Lectura completada"+bcolors.ENDC)
-		
-		print(bcolors.OKBLUE+"Sensor de pulso cardiaco"+bcolors.ENDC)
-		os.system ("python3 scripts/heart.py > scripts/data/pulso.txt")
-		print(bcolors.OKGREEN+"-Lectura completada"+bcolors.ENDC)
+			print(bcolors.OKGREEN+"-Lectura completada"+bcolors.ENDC)
+				
+			print(bcolors.OKBLUE+"Sensor de llama"+bcolors.ENDC)
+			os.system ("python3 scripts/flame.py")
+			print(bcolors.OKGREEN+"-Lectura completada"+bcolors.ENDC)
 			
-		# Lectura de datos recolectados desde los ficheros
-		file = open("scripts/data/flame.txt", "r")
-		llama = file.readline().strip('\n')
-		llamaInt=int(llama)
-		
-		file = open("scripts/data/pulso.txt", "r")
-		pulso = file.readline().strip('\n')
-		pulsoInt = int(pulso)
-		
-		# Encendido de LEDs
-		if 	pulsoInt > 140 or pulsoInt < 45:
-			os.system("python3 scripts/led.py 18 > /dev/null 2>&1 &")
-			if 	pulsoInt > 140:
-				print(bcolors.WARNING+"WARNING: Pulso cardiaco superior a los valores recomendados."+bcolors.ENDC)
-			if 	pulsoInt < 45:
-				print(bcolors.WARNING+"WARNING: Pulso cardiaco inferior a los valores recomendados."+bcolors.ENDC)
+			print(bcolors.OKBLUE+"Sensor de pulso cardiaco"+bcolors.ENDC)
+			os.system ("python3 scripts/heart.py > scripts/data/pulso.txt")
+			print(bcolors.OKGREEN+"-Lectura completada"+bcolors.ENDC)
+				
+			# Lectura de datos recolectados desde los ficheros
+			file = open("scripts/data/flame.txt", "r")
+			llama = file.readline().strip('\n')
+			llamaInt=int(llama)
 			
-		if llamaInt == 1:
-			os.system("python3 scripts/led.py 16 > /dev/null 2>&1 &")
-			print(bcolors.WARNING+"WARNING: Fuego detectado."+bcolors.ENDC)
+			file = open("scripts/data/pulso.txt", "r")
+			pulso = file.readline().strip('\n')
+			pulsoInt = int(pulso)
 			
-		if humedad > 75 or temperatura > 33:
-			os.system("python3 scripts/led.py 5 > /dev/null 2>&1 &")
-			if humedad > 75:
-				print(bcolors.WARNING+"WARNING: Humedad superior a lo valores seguros."+bcolors.ENDC)
-			if temperatura > 33:
-				print(bcolors.WARNING+"WARNING: Temperatura superior a lo valores seguros."+bcolors.ENDC)
-		
-		
-		t=str(temperatura)
-		h=str(humedad)
-		p=str(pulso)
-		l=str(llama)
-		print("\n")
-		print("Valores obtenidos:")
-		print(bcolors.UNDERLINE+"Temperatura: "+t+"º, Humedad: "+h+"%, Fuego: " +l+", Frecuencia cardiaca: "+p+"ppm"+bcolors.ENDC)
-		print("\n")
-		print(bcolors.BOLD+bcolors.UNDERLINE+"Actualizando Log..."+bcolors.ENDC)
-		log = "Temperatura: " + t+ "\n" + "Humedad: " + h + "\n" + "Frecuencia cardiaca: " + p
-		if llamaInt == 1:
-			log = log + "\n" + "Fuego detectado Peligro.\n"
-		else:
-			log = log + "\n" + "No se detecta fuego.\n\n"		
-		
-		log = log + time.strftime("%d/%m/%y") + "\n" + time.strftime("%H:%M:%S") + "\n\n\n\n"
-		
-		try:
-			file = open("scripts/log/log.txt", "a+")
-			file.write(log)
-			print(bcolors.OKGREEN+"Log actualizado"+bcolors.ENDC)
+			# Encendido de LEDs
+			if 	pulsoInt > 140 or pulsoInt < 45:
+				os.system("python3 scripts/led.py 18 > /dev/null 2>&1 &")
+				if 	pulsoInt > 140:
+					print(bcolors.WARNING+"WARNING: Pulso cardiaco superior a los valores recomendados."+bcolors.ENDC)
+				if 	pulsoInt < 45:
+					print(bcolors.WARNING+"WARNING: Pulso cardiaco inferior a los valores recomendados."+bcolors.ENDC)
+				
+			if llamaInt == 1:
+				os.system("python3 scripts/led.py 16 > /dev/null 2>&1 &")
+				print(bcolors.WARNING+"WARNING: Fuego detectado."+bcolors.ENDC)
+				
+			if humedad > 75 or temperatura > 33:
+				os.system("python3 scripts/led.py 5 > /dev/null 2>&1 &")
+				if humedad > 75:
+					print(bcolors.WARNING+"WARNING: Humedad superior a lo valores seguros."+bcolors.ENDC)
+				if temperatura > 33:
+					print(bcolors.WARNING+"WARNING: Temperatura superior a lo valores seguros."+bcolors.ENDC)
 			
+			
+			t=str(temperatura)
+			h=str(humedad)
+			p=str(pulso)
+			l=str(llama)
 			print("\n")
-			s="python3 scripts/bd.py "+t+" " +h+" " +l+" "+p
-			os.system ("python3 scripts/bd.py "+t+ " " +h+" " +l+" " +p )
+			print("Valores obtenidos:")
+			print(bcolors.UNDERLINE+"Temperatura: "+t+"º, Humedad: "+h+"%, Fuego: " +l+", Frecuencia cardiaca: "+p+"ppm"+bcolors.ENDC)
+			print("\n")
+			print("Actualizando Log...")
+			log = "Temperatura: " + t + "º\n" + "Humedad: " + h + "%\n" + "Frecuencia cardiaca: " + p + "ppm"
+			if llamaInt == 1:
+				log = log + "\n" + "Fuego detectado.\n"
+			else:
+				log = log + "\n" + "No se detecta fuego.\n"		
+				
+			log = log + "[" + time.strftime("%d/%m/%y") + " " + time.strftime("%H:%M:%S") + "]" + "\n\n"
 			
-			print(bcolors.BOLD+bcolors.OKGREEN+"Datos guardados en la BD"+bcolors.ENDC)
-			print("\n")
-		except IOError:
-			print(bcolors.FAIL+"No se ha podido guardar"+bcolors.ENDC)
-			print("\n")
-		print(bcolors.HEADER+"--------------------------------------------"+bcolors.ENDC)	
-		time.sleep(7)
+			try:
+				file = open("scripts/log/log.txt", "a+")
+				file.write(log)
+				print(bcolors.OKGREEN+"Log actualizado"+bcolors.ENDC)
+				
+				print("\n")
+				s="python3 scripts/bd.py "+t+" " +h+" " +l+" "+p
+				os.system ("python3 scripts/bd.py "+t+ " " +h+" " +l+" " +p )
+				
+				print(bcolors.BOLD+bcolors.OKGREEN+"Datos guardados en la BD"+bcolors.ENDC)
+				print("\n")
+			except IOError:
+				print(bcolors.FAIL+"No se ha podido guardar"+bcolors.ENDC)
+				print("\n")
+			print(bcolors.HEADER+"--------------------------------------------"+bcolors.ENDC)	
+			time.sleep(7)
+		except KeyboardInterrupt:
+			os.system("python3 scripts/ledOff.py 5 > /dev/null 2>&1 &")
+			os.system("python3 scripts/ledOff.py 16 > /dev/null 2>&1 &")
+			os.system("python3 scripts/ledOff.py 18 > /dev/null 2>&1 &")
+			break
 		
 		
 def calcTemp():
